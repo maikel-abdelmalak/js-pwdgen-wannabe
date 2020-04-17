@@ -7,7 +7,7 @@
 main{
     width: 75vw;
     height: 100vh;
-    padding-top: 200px;
+    padding-top: 150px;
     text-align: center;
     background-color: #ddd;
     margin: auto;
@@ -17,6 +17,7 @@ main{
     width: 400px;
     padding: 30px;
     background-color: blue;
+    border-radius: 3px;
     margin: auto;
     color: #fff;
 }
@@ -24,4 +25,7 @@ main{
 #password{
     background-color: #fff;
     color: black;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
 }

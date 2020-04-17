@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 75vw;
+    height: 100vh;
+    padding-top: 200px;
+    text-align: center;
+    background-color: #ddd;
+    margin: auto;
+}
+
+#password-container{
+    width: 400px;
+    padding: 30px;
+    background-color: blue;
+    margin: auto;
+    color: #fff;
+}
+
+#password{
+    background-color: #fff;
+    color: black;
+}
